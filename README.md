@@ -1,4 +1,4 @@
-# 🧠 YOLOv7 Object Detection in Google Colab
+#  YOLOv7 Object Detection in Google Colab
 ![Platform Badge](https://img.shields.io/badge/Platform-Google%20Colab-blue?style=for-the-badge&logo=google-colab)
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-Object%20Detection-red?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-informational?style=for-the-badge&logo=python)
