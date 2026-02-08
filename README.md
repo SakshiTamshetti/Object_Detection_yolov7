@@ -47,15 +47,6 @@ python
 
 | Model Size | ~35 MB |
 
----
-## 🤝 Contributing
-Contributions are welcome! Please feel free to:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your improvements
-4. Submit a pull request
-
----
 ## 📚 Resources & References
 - 🔗 [YOLOv7 Official Repository](https://github.com/WongKinYiu/yolov7)
 - 📖 [YOLOv7 Paper](https://arxiv.org/abs/2207.02696)
